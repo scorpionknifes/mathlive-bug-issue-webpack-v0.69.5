@@ -6,6 +6,7 @@
 </template>
 
 <script>
+import 'mathlive'
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
